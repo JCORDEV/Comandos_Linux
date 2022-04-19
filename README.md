@@ -1,6 +1,6 @@
 # Comandos_Linux
 
-![Texto alternativo](imagen1.png)
+![Texto alternativo](imagen1.png)  --
 ![Texto alternativo](imagen2.png)
 ![Texto alternativo](imagen3.png)
 ![Texto alternativo](imagen4.png)
